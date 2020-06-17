@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="xherp">
+    <output-path>$PROJECT_DIR$/out/artifacts/xherp</output-path>
+    <root id="archive" name="xherp.war" />
+  </artifact>
+</component>
